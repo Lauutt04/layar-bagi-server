@@ -1,7 +1,7 @@
 {
-  "name": "layar-bagi-server",
+  "name": "glitch-signal-server",
   "version": "1.0.0",
-  "description": "Signaling server for WebRTC screen share app",
+  "description": "Signaling server on Glitch",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -14,4 +14,3 @@
     "node": "18.x"
   }
 }
-
